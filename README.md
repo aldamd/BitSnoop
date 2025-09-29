@@ -12,6 +12,7 @@ BitSnoop is a lightweight Python tool for parsing BitTorrent traffic from a pack
 - [pyshark](https://github.com/KimiNewt/pyshark)
 - [python-magic](https://github.com/ahupp/python-magic)
 - Wireshark / TShark must be installed and available in `$PATH`  
+  
 Install dependencies with:
 ```sh
 pip install pyshark python-magic
